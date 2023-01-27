@@ -1,0 +1,24 @@
+body {
+    background-color: bisque;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+img {
+    margin-left: 750px;
+}
+
+.color {
+    color: rgb(163, 114, 9);
+
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+
+}
